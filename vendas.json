@@ -1,0 +1,18 @@
+[
+    {
+        "id_animal": "800",
+        "animal_info": {
+            "nome": "Baby",
+            "raca": "Gir",
+            "idade": 1
+        },
+        "data": "12/04/2025",
+        "comprador": "Fazenda Lucila",
+        "valor": 2000.0,
+        "responsavel": {
+            "id": "021",
+            "nome": "Mellissa",
+            "cargo": "Coordenadora"
+        }
+    }
+]
